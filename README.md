@@ -10,7 +10,7 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 
 ## Content
 
-1. How to Start: Basic Checklist
+1. How to Start: Basic Checklist - [slides](Part1-Moacir/sibgrapi_tutorial_21_Part_1_Moacir.pdf)
 	* Input representation
 	* Normalization
 	* Data quality
@@ -19,7 +19,8 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 	* Model tuning
 	* Validation and evaluation
 
-2. Common Issues
+2. Common Issues - [notebooks](Part1-Moacir/)
+	* Data quality 
 	* Small datasets
 	* Imbalanced data
 	* Overfitting/underfitting
