@@ -26,7 +26,7 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 	* Overfitting/underfitting
 	* Sensitivity to attack
 
-3. Architecture Options [notebook](3.\ Architecture\ Options/)
+3. Architecture Options - [notebook](<3. Architecture Options/>)
 	* Convolutions
 	* Width X Depth in Networks
 	* Pooling and subsampling
@@ -45,7 +45,7 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 
 6. Advanced training procedures
 	* Curriculum Learning
-	* Contrastive Learning [notebook](6.2.\ Contrastive\ Learning/)
+	* Contrastive Learning - [notebook](<6.2. Contrastive Learning/>)
 	* Self-supervising Learning
 	
 7. Improving predictions
