@@ -11,27 +11,28 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 ## Content
 
 1. How to Start: Basic Checklist - [slides](1_How-to-start_Common-issues/sibgrapi_tutorial_21_Part_1_Moacir.pdf)
-	* Input representation
-	* Normalization
-	* Data quality
-	* Loss function choice
-	* Feature projection/visualization
-	* Model tuning
-	* Validation and evaluation
+	1. Data quality
+	2. Normalization
+	3. Input representation valid
+	4. Loss function and evaluation choice
+	5. Model tuning
+	6. Feature projection/visualization
+	7. Internal and External validation and evaluation
 
-[notebook: Normalization, Loss and Evaluation](1_How-to-start_Common-issues/tdnn_sibgrapi_1_data.ipynb)
+	Notebook:
+	* [notebook: Normalization, Loss and Evaluation](1_How-to-start_Common-issues/tdnn_sibgrapi_1_data.ipynb)
 
-2. Common Issues - [notebooks](Part1-Moacir/)
-	* Data quality 
-	* Small datasets
-	* Imbalanced data
-	* Overfitting/underfitting
-	* Sensitivity to attack
+2. Common Issues - [slides](1_How-to-start_Common-issues/sibgrapi_tutorial_21_Part_1_Moacir.pdf)
+	1. Data quality and Small datasets
+	2. Imbalanced data
+	3. Bias-variance dillema in DNNs: overfitting/underfitting
+	4. Sensitivity to attack
 
-[notebook: Overfitting case](1_How-to-start_Common-issues/tdnn_sibgrapi_2_1_overfitting.ipynb)<br>
-[notebook: Reducing Overfitting](1_How-to-start_Common-issues/tdnn_sibgrapi_2_2_reducedmodel.pynb)<br>
-[notebook: DNN under attack](1_How-to-start_Common-issues/tdnn_sibgrapi_2_3_attack.pynb)<br>
-[notebook: Small data scenario](1_How-to-start_Common-issues/tdnn_sibgrapi_3_smalldata.pynb)<br>
+	Notebooks:
+	* [notebook: Overfitting case](1_How-to-start_Common-issues/tdnn_sibgrapi_2_1_overfitting.ipynb)
+	* [notebook: Reducing Overfitting](1_How-to-start_Common-issues/tdnn_sibgrapi_2_2_reducedmodel.pynb)
+	* [notebook: DNN under attack](1_How-to-start_Common-issues/tdnn_sibgrapi_2_3_attack.pynb)
+	* [notebook: Small data scenario](1_How-to-start_Common-issues/tdnn_sibgrapi_3_smalldata.pynb)
 
 
 3. Architecture Options - [notebook](<3. Architecture Options/>)
