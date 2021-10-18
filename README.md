@@ -10,7 +10,7 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 
 ## Content
 
-1. How to Start: Basic Checklist - [slides](Part1-Moacir/sibgrapi_tutorial_21_Part_1_Moacir.pdf)
+1. How to Start: Basic Checklist - [slides](1_How-to-start_Common-issues/sibgrapi_tutorial_21_Part_1_Moacir.pdf)
 	* Input representation
 	* Normalization
 	* Data quality
@@ -19,12 +19,20 @@ Paper (extended version): https://arxiv.org/abs/2109.02752
 	* Model tuning
 	* Validation and evaluation
 
+[notebook: Normalization, Loss and Evaluation](1_How-to-start_Common-issues/tdnn_sibgrapi_1_data.ipynb)
+
 2. Common Issues - [notebooks](Part1-Moacir/)
 	* Data quality 
 	* Small datasets
 	* Imbalanced data
 	* Overfitting/underfitting
 	* Sensitivity to attack
+
+[notebook: Overfitting case](1_How-to-start_Common-issues/tdnn_sibgrapi_2_1_overfitting.ipynb)<br>
+[notebook: Reducing Overfitting](1_How-to-start_Common-issues/tdnn_sibgrapi_2_2_reducedmodel.pynb)<br>
+[notebook: DNN under attack](1_How-to-start_Common-issues/tdnn_sibgrapi_2_3_attack.pynb)<br>
+[notebook: Small data scenario](1_How-to-start_Common-issues/tdnn_sibgrapi_3_smalldata.pynb)<br>
+
 
 3. Architecture Options - [notebook](<3. Architecture Options/>)
 	* Convolutions
